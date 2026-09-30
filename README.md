@@ -5,6 +5,8 @@ A lightweight Python desktop application (Tkinter + SQLite) for organizing and d
 > **Research question:** *Can transcript-level structural features be used to systematically characterize protein diversity across human genes?*
 
 The program **organizes and describes** values that you copy from NCBI GenBank records. It never invents, estimates, or corrects biological values. Unknown values stay blank.
+<img width="1201" height="647" alt="image" src="https://github.com/user-attachments/assets/0cbde107-befd-4dab-847b-65b26b870487" />
+
 
 ---
 
